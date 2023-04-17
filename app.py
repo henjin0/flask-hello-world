@@ -6,6 +6,6 @@ def hello_world():
     return 'Hello, World!'
 
 @app.route('/kurage')
-def hello_world():
+def kurage_hello():
     return '{"msg":"どうも、クラゲです"}'
 
